@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
     Button checkout;
     Spinner kelas;
     RadioGroup jurusan;
-    CheckBox asp, oracle, android;
+    CheckBox asp, oracle, android, java;
     TextView hasil, judul;
 
     @Override
@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
         asp = (CheckBox) findViewById(R.id.asp);
         oracle = (CheckBox) findViewById(R.id.oracle);
         android = (CheckBox) findViewById(R.id.android);
+        java = (CheckBox) findViewById(R.id.java);
         asp.setOnCheckedChangeListener(this);
         oracle.setOnCheckedChangeListener(this);
         android.setOnCheckedChangeListener(this);
@@ -68,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
          if(asp.isChecked()) {minat += asp.getText()+"";}
         else if(oracle.isChecked()) {minat += oracle.getText()+"";}
         else if (android.isChecked()){minat += android.getText()+"";}
+         else if(java.isChecked()) {minat += java.getText()+"";}
         else  {minat += "Tambahkan minat Anda";}
 
 
@@ -82,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
         } else {nama.setError(null);}
 
 
-        hasil.setText(nama1 + " " + kelas1 + " telah terdaftar di kelas Visionet dengan minat" + minat + "untuk standar " +jurusan1);
+        hasil.setText(nama1 + " " + kelas1 + " telah terdaftar di kelas Visionet dengan minat " + minat + " untuk standar " +jurusan1);
 
     }
 

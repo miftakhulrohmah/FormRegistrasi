@@ -120,11 +120,18 @@
         android:id="@+id/android"
         android:checked="false" />
 
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Java Enterpraise"
+        android:id="@+id/java"
+        android:checked="false" />
+
     <Button
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Checkout"
+        android:text="@string/submit"
         android:id="@+id/checkout"
         android:layout_gravity="right" />
 
