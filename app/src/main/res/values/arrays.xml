@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kelas">
+        <item>XIRPL1 </item>
+        <item>XIRPL2 </item>
+        <item>XIRPL3 </item>
+        <item>XIRPL4 </item>
+        <item>XIRPL5 </item>
+        <item>XITKJ1</item>
+        <item>XITKJ2</item>
+        <item> XITKJ3</item>
+        <item> XITKJ4</item>
+        <item> XITKJ5</item>
+    </string-array>
+</resources>
