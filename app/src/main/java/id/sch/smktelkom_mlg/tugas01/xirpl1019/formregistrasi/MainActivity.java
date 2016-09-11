@@ -77,7 +77,9 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
             jurusan1 = rb.getText().toString();
         }
 
-
+        if(nama1.isEmpty()){
+            nama.setError("Nama belum diisi");
+        } else {nama.setError(null);}
 
 
         hasil.setText(nama1 + " " + kelas1 + " telah terdaftar di kelas Visionet dengan minat" + minat + "untuk standar " +jurusan1);
