@@ -9,15 +9,13 @@ Nama aplikasi : Form Registrasi Pendaftaran Ekstra Visionet
   notification "Nama belum diisi".
   
   > Screenshot Aplikasi
-![alt text](https://docs.google.com/open?id=0B8Y5HBk_PRzJQko3X2V4Q05kcGc)
-![alt text](https://docs.google.com/open?id=0B8Y5HBk_PRzJWm5Ubk9HUFBJM1U)
-![alt text](https://docs.google.com/open?id=0B8Y5HBk_PRzJaE42TnZjYkhfLWs)
-
->Link Apk
+    Ada pada issue
+    
+  >Link Apk
 https://docs.google.com/open?id=0B8Y5HBk_PRzJSDVvTUcxbEoxdDg
 https://docs.google.com/open?id=0B8Y5HBk_PRzJZVR6cTlFREFTQXc
 
->Identitas
+  >Identitas
 Nama    : Miftakhul Rohmah
 Kelas   : XIRPL1
 No      : 19
