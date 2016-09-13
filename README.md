@@ -8,8 +8,8 @@ Nama aplikasi : Form Registrasi Pendaftaran Ekstra Visionet
   bidang yang diminati. Akan ada hasil dari inputan user yang akan ditampilkan di halaman yang sama. Jika user tidak menginputkan nama maka akan ada error 
   notification "Nama belum diisi".
   
-  > Screenshot Aplikasi
-    Ada pada issue
+  > Screenshot Aplikasi </br>
+    https://github.com/miftakhulrohmah/FormRegistrasi/issues/1
     
   >Link Apk
 https://docs.google.com/open?id=0B8Y5HBk_PRzJSDVvTUcxbEoxdDg
