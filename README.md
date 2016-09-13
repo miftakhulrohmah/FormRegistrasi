@@ -9,7 +9,9 @@ Nama aplikasi : Form Registrasi Pendaftaran Ekstra Visionet
   notification "Nama belum diisi".
   
   > Screenshot Aplikasi </br>
-    https://github.com/miftakhulrohmah/FormRegistrasi/issues/1
+    ![Screenshot](https://github.com/miftakhulrohmah/FormRegistrasi/blob/master/Screenshot_2016-09-11-14-49-52.png)
+    ![Screenshot] (https://github.com/miftakhulrohmah/FormRegistrasi/blob/master/Screenshot_2016-09-11-14-49-57.png)
+    ![Screenshot] (https://github.com/miftakhulrohmah/FormRegistrasi/blob/master/Screenshot_2016-09-11-14-50-16.png)
     
   >Link Apk
 https://docs.google.com/open?id=0B8Y5HBk_PRzJSDVvTUcxbEoxdDg
