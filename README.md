@@ -9,18 +9,19 @@ Nama aplikasi : Form Registrasi Pendaftaran Ekstra Visionet
   notification "Nama belum diisi".
   
   > Screenshot Aplikasi
-https://docs.google.com/open?id=0B8Y5HBk_PRzJQko3X2V4Q05kcGc
-https://docs.google.com/open?id=0B8Y5HBk_PRzJWm5Ubk9HUFBJM1U
-https://docs.google.com/open?id=0B8Y5HBk_PRzJaE42TnZjYkhfLWs
+![alt text](https://docs.google.com/open?id=0B8Y5HBk_PRzJQko3X2V4Q05kcGc)
+![alt text](https://docs.google.com/open?id=0B8Y5HBk_PRzJWm5Ubk9HUFBJM1U)
+![alt text](https://docs.google.com/open?id=0B8Y5HBk_PRzJaE42TnZjYkhfLWs)
 
 >Link Apk
 https://docs.google.com/open?id=0B8Y5HBk_PRzJSDVvTUcxbEoxdDg
 https://docs.google.com/open?id=0B8Y5HBk_PRzJZVR6cTlFREFTQXc
 
 >Identitas
-Nama  : Miftakhul Rohmah
-Kelas : XIRPL1
-No    : 19
+Nama    : Miftakhul Rohmah
+Kelas   : XIRPL1
+No      : 19
+NIS     : 4751
 Sekolah : SMK Telkom Malang
 Jurusan : RPL
 Mapel   : Pemrograman Perangkat Bergerak
