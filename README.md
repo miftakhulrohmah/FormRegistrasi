@@ -13,15 +13,15 @@ Nama aplikasi : Form Registrasi Pendaftaran Ekstra Visionet<br>
     ![Screenshot] (https://github.com/miftakhulrohmah/FormRegistrasi/blob/master/Screenshot_2016-09-11-14-49-57.png)
     ![Screenshot] (https://github.com/miftakhulrohmah/FormRegistrasi/blob/master/Screenshot_2016-09-11-14-50-16.png)
     
-  >Link Apk
-https://docs.google.com/open?id=0B8Y5HBk_PRzJSDVvTUcxbEoxdDg
-https://docs.google.com/open?id=0B8Y5HBk_PRzJZVR6cTlFREFTQXc
+  >Link Apk <br>
+https://docs.google.com/open?id=0B8Y5HBk_PRzJSDVvTUcxbEoxdDg <br>
+https://docs.google.com/open?id=0B8Y5HBk_PRzJZVR6cTlFREFTQXc <br>
 
-  >Identitas
-Nama    : Miftakhul Rohmah
-Kelas   : XIRPL1
-No      : 19
-NIS     : 4751
-Sekolah : SMK Telkom Malang
-Jurusan : RPL
-Mapel   : Pemrograman Perangkat Bergerak
+  >Identitas <br>
+Nama    : Miftakhul Rohmah<br>
+Kelas   : XIRPL1<br>
+No      : 19<br>
+NIS     : 4751<br>
+Sekolah : SMK Telkom Malang<br>
+Jurusan : RPL<br>
+Mapel   : Pemrograman Perangkat Bergerak<br>
