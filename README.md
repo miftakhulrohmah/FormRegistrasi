@@ -1,6 +1,6 @@
 # FormRegistrasi <br>
 
-  <h1> Penjelasan Singkat </h1><br> 
+  <h2> Penjelasan Singkat </h2><br> 
   <br> <br>
 Nama aplikasi : Form Registrasi Pendaftaran Ekstra Visionet<br>
   Aplikasi ini merupakan aplikasi sederhana yang membantu registrasi siswa yang ingin mendaftar ekstrakurikuler visionet sesuai dengan minat bidang
