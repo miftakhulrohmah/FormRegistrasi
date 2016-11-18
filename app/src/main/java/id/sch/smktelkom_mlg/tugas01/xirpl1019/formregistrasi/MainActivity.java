@@ -15,6 +15,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
     EditText nama;
+    EditText umur;
     RadioButton rpl, tkj;
     Button checkout;
     Spinner kelas;
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
         setContentView(R.layout.activity_main);
 
         nama = (EditText) findViewById(R.id.nama);
+        umur = (EditText) findViewById (R.id.umur);
         rpl = (RadioButton) findViewById(R.id.rpl);
         tkj = (RadioButton) findViewById(R.id.tkj);
         checkout = (Button) findViewById(R.id.checkout);
@@ -56,6 +58,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
     {
         String jurusan1 = tkj.getText().toString(); rpl.getText().toString();
         String nama1 = nama.getText().toString();
+        String umur1 = umur.getText().toString();
         String minat = "";
         String kelas1 = kelas.getSelectedItem().toString();
         int startlen = hasil.length();
@@ -83,8 +86,11 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
             nama.setError("Nama belum diisi");
         } else {nama.setError(null);}
 
+        if(umur1.isEmpty()){
+            umur.setError("Umur belum diisi");
+        } else {umur.setError(null);}
 
-        hasil.setText(nama1 + " " + kelas1 + " telah terdaftar di kelas Visionet dengan minat " + minat + " untuk standar " +jurusan1);
+        hasil.setText(nama1 + " siswa berumur " + umur1 + " tahun, kelas " + kelas1 + " telah terdaftar di kelas Visionet dengan minat " + minat + " untuk standar " +jurusan1);
 
     }
 
