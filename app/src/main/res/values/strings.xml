@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Form Registrasi</string>
+    <string name="form_pendaftaran_ekstra_visionet">FORM PENDAFTARAN EKSTRA VISIONET</string>
+    <string name="logo">logo</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="minat">Minat</string>
+    <string name="asp_net">ASP.net</string>
+    <string name="oracle">Oracle</string>
+    <string name="android">Android</string>
+    <string name="checkout">Checkout</string>
+    <string name="hasil">Hasil</string>
+    <string name="submit">Submit</string>
+    <string name="java_enterpraise">Java Enterpraise</string>
+</resources>
